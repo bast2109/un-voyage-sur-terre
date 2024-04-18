@@ -11,6 +11,8 @@ Aujourd'hui l'astrologie maya appelle mon cœur.
 Quel bonheur de vivre sur cette Terre avec cette conscience là, c'est-à-dire de reconnaître qu'un jeu plus grand que celui que je vois avec mes jolis yeux marrons est possible. 
 Voici un lien que je suis en ce moment à ce sujet : 
 https://helenepascou.fr/lune-planetaire-10e-lune-de-lannee-du-magicien-blanc-harmonique/
+<a href="https://helenepascou.fr/lune-planetaire-10e-lune-de-lannee-du-magicien-blanc-harmonique/">Astrologie Maya Hélène Pascou</a>
+
 Hélène traduit dans une langue que je comprends (en partie) ce que vient refléter la sagesse maya dans notre quotidien.
 ![image de l'astrologie maya]({% link images/images.jpeg %})
 
