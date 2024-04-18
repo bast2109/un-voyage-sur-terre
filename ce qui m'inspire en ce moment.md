@@ -14,7 +14,7 @@ https://helenepascou.fr/lune-planetaire-10e-lune-de-lannee-du-magicien-blanc-har
 Hélène traduit dans une langue que je comprends (en partie) ce que vient refléter la sagesse maya dans notre quotidien.
 ![image de l'astrologie maya]({% link images/images.jpeg %})
 
-Cette musique avec la poésie qu'il y a derrière m'enchante : 
+Cette musique avec la poésie qu'il y a derrière m'enchante (attention pour ceux qui regardent one piece fermer les yeux au risque d'être spoilé) : 
 https://www.youtube.com/watch?v=gUQG8CL2rfY
 Je regarde le dessin animé japonais One piece ici :
 https://v5.voiranime.com/anime/one-piece/one-piece-0001-vostfr/
