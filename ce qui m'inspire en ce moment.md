@@ -11,10 +11,14 @@ Quel bonheur de vivre sur cette Terre avec cette conscience là, c'est-à-dire d
 Voici un lien que je suis en ce moment à ce sujet : 
 https://helenepascou.fr/lune-planetaire-10e-lune-de-lannee-du-magicien-blanc-harmonique/
 Hélène traduit dans une langue que je comprends (en partie) ce que vient refléter la sagesse maya dans notre quotidien.
+![image de l'astrologie maya]({% link images/images.jpeg %})
 
 Cette musique avec la poésie qu'il y a derrière m'enchante : 
 https://www.youtube.com/watch?v=gUQG8CL2rfY
-Je n'en dirais pas plus pour le moment pour éviter de dévoiler la beauté de ce dessin animé à ceux qui sont en train de le regarder.
+Je regarde le dessin animé japonais One piece ici :
+https://v5.voiranime.com/anime/one-piece/one-piece-0001-vostfr/
+Il est aussi possible de le regarder en version Kai, c'est-à-dire que des passages du dessin animé on été rétirés, ce qui permet de visionner le dessin animé par séquence de 2h environ.
+![image du dessin animé one piece]({% link images/one piece.jpeg %})
 
 Je lis ce livre : 
 ![couverture du livre de Joe dispenza: rompre avec soi-même]({% link images/Rompre-avec-soi-meme.jpg %})
