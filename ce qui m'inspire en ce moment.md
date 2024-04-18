@@ -5,6 +5,7 @@ in_menu: true
 ---
 Salut!
 J'ai envie de vous raconter ma vie.
+![une main donne un coeur rouge en papier dans une autre main qui a la paume ouverte vers le ciel, en arrière plan il y a la lumière du soleil qui irradie]({% link images/partage.jpeg %})
 
 Aujourd'hui l'astrologie maya appelle mon cœur.
 Quel bonheur de vivre sur cette Terre avec cette conscience là, c'est-à-dire de reconnaître qu'un jeu plus grand que celui que je vois avec mes jolis yeux marrons est possible. 
