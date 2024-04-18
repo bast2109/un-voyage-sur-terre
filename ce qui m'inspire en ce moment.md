@@ -18,7 +18,6 @@ Je n'en dirais pas plus pour le moment pour éviter de dévoiler la beauté de c
 
 Je lis ce livre : 
 ![couverture du livre de Joe dispenza: rompre avec soi-même]({% link images/Rompre-avec-soi-meme.jpg %})
-![Texte décrivant l'image]({% link images/Rompre-avec-soi-meme.jpg %})
 
 Merci de m'avoir lu.
 Bastien 
