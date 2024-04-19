@@ -3,7 +3,6 @@ title: "Un matin au réveil"
 ---
 <p>Salut !</p>
 
-![singe regardant entre ses jambes dans notre direction en ayant la tête en bas]({% link images/salut.jpeg %})
 
 <p>Je t’écris depuis ma voiture, là où je viens de dormir pour réaliser un guide de randonnée pour une maison d’édition.</p>
 ![Texte décrivant l'image]({% link images/Sans titre.jpeg %})
@@ -14,7 +13,10 @@ La première publication que je découvre propose un boulot dans lequel je peux 
 ![enfant sur la terre relié à la lune par une corde]({% link images/reve.jpeg %})
 
 <p>Incroyable. <br />
-J’en avais l’intuition que c’était un boulot intéressant, parce que premièrement j’ai besoin d’argent car le RSA ne nous suffit plus, puis nous n’avons plus envie de vivre avec si peu d’argent et tout ce que cela génère de désagréable que de percevoir de l’argent venant de l’aide sociale nationale, et deuxièmement car je n’ai pas de « patron » direct. C’est-à-dire que je suis employé par une maison d’édition avec laquelle j’ai des contrats et des dates limites mais c’est flexible et en plus je ne traite pas directement avec eux mais avec celle qui a l’habitude de travailler pour eux et qui a proposé ce boulot car elle est enceinte et ne veut plus réaliser ces missions sur le terrains.</p>
+J’en avais l’intuition que c’était un boulot intéressant, parce que premièrement j’ai besoin d’argent car le RSA ne nous suffit plus, puis nous n’avons plus envie de vivre avec si peu d’argent et tout ce que cela génère de désagréable que de percevoir de l’argent venant de l’aide sociale nationale, et deuxièmement car je n’ai pas de « patron » direct. C’est-à-dire que je suis employé par une maison d’édition avec laquelle j’ai des contrats et des dates limites mais c’est flexible et en plus je ne traite pas directement avec eux mais avec celle qui a l’habitude de travailler pour eux et qui a proposé ce boulot car elle est enceinte et ne veut plus réaliser ces missions sur le terrain.</p>
+
+
+![singe regardant entre ses jambes dans notre direction en ayant la tête en bas]({% link images/salut.jpeg %})
 
 <p>Quel kiff !<br />
 Alors oui c’est clair je me gèle les doigts, il fait 3 degrés (donc il y a des inconvénients qui ne demandent qu’a créer la situation que je souhaite vivre) et je kiff être là à pouvoir vivre cette situation aussi simple que d’écrire sur un blog à des gens qui peuvent être partout sur la planète et depuis un endroit différent d’où j’ai l’habitude d’être, la région de Bergerac.</p>
