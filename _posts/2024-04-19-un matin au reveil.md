@@ -18,7 +18,7 @@ Alors oui c’est clair je me gèle les doigts, il fait 3 degrés (donc il y a d
 Sous le sapin, le jour de Noël, j’ai découvert en déchirant le papier cadeau, un vélo. Quelle déception. J’étais en colère. Il n’avait pas compris mon dessin. J’avais peut être oublié le moteur…<br />
 Il me semble lui avoir écrit une lettre de nouveau lui expliquant mon problème.
 Puis plus tard, je ne me souviens pas si c’était quelque mois plus tard ou quelques années, mais aux alentours de mes 6 ans, mon père et ma mère m’emmena à un magasin de moto et m’acheta une piwi Yamaha bleu avec trois vitesses.<br />
-![moto enfant bleue]({% link images/Y4BCC00-2002A0000.JPG %})
+![petite moto bleue]({% link images/Y4BCC00-2002A0000.JPG %})
 J’étais heureux, j’en pleurais de joie. <br />
 Ce fut ma première leçon au sujet de la manifestation de ses désirs, de la patience et de la confiance en Soi.<br />
 Merci à mon Père et à ma Mère pour ce merveilleux Cadeau.</p>
@@ -26,6 +26,6 @@ Merci à mon Père et à ma Mère pour ce merveilleux Cadeau.</p>
 <p>Je remercie aussi l'existence de ce blog et cette expérience de pouvoir vous écrire et me lire car ça me rappel que je suis en train de jouer à un jeu, celui d’être français.
 Alors je vous donne rendez-vous pour un prochain article à ce sujet.</p>
 
-<p>Au plaisir de partager à nouveau un moment ensemble.
-Merci de m’avoir lu.
+<p>Au plaisir de partager à nouveau un moment ensemble.<br />
+Merci de m’avoir lu.<br />
 Bastien</p>
