@@ -6,9 +6,8 @@ title: "Un matin au réveil"
 
 ![singe regardant entre ses jambes dans notre direction en ayant la tête en bas]({% link images/salut.jpeg %})
 
-<p>Je t’écris depuis ma voiture, là où je viens de dormir pour réaliser un guide de randonnée pour une maison d’édition.</p>
-
-<p>C’est un boulot que j’ai trouvé sur Facebook. Une dame a posté une publication je ne sais plus où exactement mais je me souviens que j’étais sur les toilettes quand j’ai vu l’info et que juste avant, je douté que ce soit un acte bénéfique pour moi, de prendre mon portable pour aller sur les réseaux sociaux pendant ce moment là.<br />
+<p>Je t’écris depuis ma voiture, là où je viens de dormir pour réaliser un guide de randonnée pour une maison d’édition.<br />
+C’est un boulot que j’ai trouvé sur Facebook. Une dame a posté une publication je ne sais plus où exactement mais je me souviens que j’étais sur les toilettes quand j’ai vu l’info et que juste avant, je douté que ce soit un acte bénéfique pour moi, de prendre mon portable pour aller sur les réseaux sociaux pendant ce moment là.<br />
 Et finalement j’ai dit « merde » à cette pensée parce que là, j’en avais envie et tant pis si c’était une erreur. <br />
 La première publication que je découvre propose un boulot dans lequel je peux vivre mon rêve d’être nomade. Je ne m’en rendais pas compte à ce moment là, pas vraiment compte, pas à ce point, où je suis en train de vous écrire depuis un village qui s’appelle Le grand Pressigny, qui se situe à 3h45 de ma tribu, Magali et Zorah, ma fiancé et ma fille.</p>
 
