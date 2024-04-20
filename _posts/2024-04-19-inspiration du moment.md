@@ -23,6 +23,8 @@ Une beauté.</p>
 <a href="https://https://v5.voiranime.com/anime/one-piece/one-piece-0001-vostfr//">One piece</a><br />
 Il est aussi possible de le regarder en version Kai, c'est-à-dire que des passages du dessin animé on été retirés, ce qui permet de le visionner par séquence de 2h environ: <a href="https://v5.voiranime.com/anime/one-piece-kai/one-piece-001-vostfr-001-008/">One piece Kai</a></p>
 
+![Texte décrivant l'image]({% link images/Nika_Anime_Infobox.webp %})
+
 <p>Cette musique, avec la poésie qu'il y a derrière, m'enchante (attention pour ceux qui regardent One piece fermer les yeux au risque d'être spoilé) : 
 <a href="https://https://www.youtube.com/watch?v=gUQG8CL2rfY/">Guerrier de la libération dans One piece</a></p>
 
