@@ -7,7 +7,7 @@ title: "Inspiration du moment"
 
 <p>En ce moment je pratique l'astrologie maya.<br />
 Je suis heureux de découvrir chaque matin de quoi est composée cette nouvelle journée selon la sagesse maya.<br />
-J'utilise cette application : <br />
+J'utilise cette application : <a href="https://play.google.com/store/apps/details?id=net.anotherworld.maya&hl=fr&gl=US&pli=1">Enchantement du rêve</a><br />
 Aussi j'écoute Hélène Pascou en vidéo qui m'aide à découvrir ce que cache les symboles maya. Elle traduit dans une langue que je comprends (en partie) ce que vient refléter la sagesse maya dans notre quotidien. Vous pouvez la retrouver ici : <a href="https://helenepascou.fr/lune-planetaire-10e-lune-de-lannee-du-magicien-blanc-harmonique/">Astrologie Maya Hélène Pascou</a></p>
 
 ![image du dessin animé one piece]({% link images/one piece.jpeg %})
