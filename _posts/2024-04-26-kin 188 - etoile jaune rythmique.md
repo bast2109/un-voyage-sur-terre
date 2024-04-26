@@ -21,3 +21,8 @@ Observe comment tu te présentes et comment tu perçois tes dons, tes facilités
 Ton essence répand la présence. Exprime simplement ces talents et ces dons que tu as choisis de venir travailler dans cette vie. Quand tu te tiendras dans la plénitude de ta beauté et de ta puissance, tu manifesteras la claire perspective de l’harmonie naturelle.
 
 Dans l’ombre de l’étoile tu peux penser qu’il y a un seul chemin correct ou exclusivement un système qui puisse te permettre d’atteindre l’illumination. Chaque maître possède une partie du casse-tête, mais personne en dehors de toi n’a la réponse. Il dépend de toi que tu intègres tout ce que tu apprends. Le changement s’opérera lorsque tu verras que tu dois t’ouvrir à la vérité qui se trouve en chaque enseignement, et tu pourras alors suivre ton propre chemin… Ton sceau possède une deuxième ombre qui mène au choix d’une apparente disharmonie. Soit attentif et pratique l’harmonie dans chacun des aspects de ta vie quotidienne. Ouvre-toi pleinement à l’harmonie qui existe déjà dans ta vie. L’harmonie est la base, la plateforme, la porte stellaire dont l’entrée est ton corps physique. A partir de là, prends le chemin qui va te ramener à la maison, jusqu’aux étoiles. Permets à ton sceau de te libérer pour t’amener aux octaves supérieures de la symphonie galactique.
+
+L'image vient de ce site :
+http://mainbleuecosmique.free.fr/oracle/oracle.htm
+
+Le texte de ce site : https://13lunes.fr/letoile-jaune-lamat-glyphe-8/
